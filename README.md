@@ -17,7 +17,7 @@
   <img align="center" src="https://img.shields.io/badge/-azaphian-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/joaogabriel0x" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaog0x-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-joaogabriel0x-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/offtonyx" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-offtonyx-05122A?style=flat&logo=instagram" alt="instagram"/>
