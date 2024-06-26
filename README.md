@@ -2,11 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Joao Gabriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaph0x&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, Java**
-
-- 👨‍💻 More at [azaphian.com](https://azaphian.com)
+- 👨‍💻 Engenheiro de Software Pleno | FullStack
+- 📚 Trabalho com **Angular, Ionic, SpringBoot, Flutter, NodeJS, .NET**
+- 💬 Mais em [azaphian.com](https://azaphian.com/about)
 
 <br><br>
 
